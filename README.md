@@ -1,6 +1,6 @@
-# {{DECKDECKGO_TITLE}}
+# Presentation Mar 2 2022 16-35-01
 
-{{DECKDECKGO_DESCRIPTION}} 
+Noël Macé - blindnet 
 
 ## Table of contents
 
@@ -11,15 +11,15 @@
 
 ## Slides
 
-🔗 [https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}}](https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}})
+🔗 [https://beta.deckdeckgo.io/contact/presentation-mar-2-2022-16-35-01/](https://beta.deckdeckgo.io/contact/presentation-mar-2-2022-16-35-01/)
 
 ## Usage
 
 💻 To get started locally with this presentation, clone this repo and install its dependencies.
 
 ```
-git clone {{DECKDECKGO_GITHUB_REPO_URL}}
-cd {{DECKDECKGO_GITHUB_REPO_NAME}}
+git clone https://github.com/noelmace/presentation-mar-2-2022-16-35-01
+cd presentation-mar-2-2022-16-35-01
 npm install
 ```
 
